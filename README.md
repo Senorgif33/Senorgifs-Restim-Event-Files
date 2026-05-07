@@ -1,6 +1,6 @@
 # Senorgif's Restim Event Files
 
-A collection of base funscripts and `.events.yml` files created for use with the [Restim Funscript Processor](https://github.com/edger477/funscript-tools/releases/tag/v2.3.5). The events files define timed E-Stim stimulation events that are layered on top of processed funscripts using the app's Custom Event Builder.
+A collection of base funscripts and `.events.yml` files created for use with the [Restim Funscript Processor](https://github.com/edger477/funscript-tools/releases/tag/v2.3.5). The events files define timed E-Stim stimulation events that are layered on top of processed funscripts using the app's Custom Event Builder. These were made with/for Restim Funscript Processor v2.3.5
 
 ## Usage
 
@@ -85,3 +85,4 @@ Parameters vary by event type but the most common ones are:
 - These all use the built in event types.
 - Some folders contain alternate scripts for the same funscript (e.g. EroClip has two versions).
 - I have inlcuded the base funscripts I used while creating the events, but theoretically these will work with any funscript that works with the source video. 
+-Made for Funscr
