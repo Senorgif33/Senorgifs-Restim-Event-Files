@@ -1,11 +1,11 @@
 # Senorgif's Restim Event Files
 
-A collection of `.events.yml` files created for use with the [Restim Funscript Processor](https://github.com/edger477/funscript-tools/releases/tag/v2.3.5). These files define timed E-Stim stimulation events that are layered on top of processed funscripts using the app's Custom Event Builder.
+A collection of base funscripts and `.events.yml` files created for use with the [Restim Funscript Processor](https://github.com/edger477/funscript-tools/releases/tag/v2.3.5). The events files define timed E-Stim stimulation events that are layered on top of processed funscripts using the app's Custom Event Builder.
 
 ## Usage
 
 1. Open the [Restim Funscript Processor](https://github.com/edger477/funscript-tools/releases/tag/v2.3.5).
-2. Load the funscript for the matching title.
+2. Load the `.funscript` file from this repo for the matching title.
 3. Click **Process Files** to generate the base Restim scripts.
 4. Open the **Custom Event Builder**.
 5. Load the corresponding `.events.yml` file from this repo.
@@ -13,20 +13,18 @@ A collection of `.events.yml` files created for use with the [Restim Funscript P
 
 ## Files Included
 
-| File | Title |
-| --- | --- |
-| `CH Audition 3/Cock Hero - Audition 3.events.yml` | Cock Hero - Audition 3 |
-| `CH Blue Angel/ReStim Generated/CH-Blue Angel.events.yml` | Cock Hero - Blue Angel |
-| `CH Champion of Cocknia/Champion of Cocknia hell.events.yml` | Champion of Cocknia |
-| `CH Crescendo/MattMan FOC/Cock Hero Crescendo (MattMan).events.yml` | Cock Hero Crescendo (MattMan edit) |
-| `CH Eroclip/CH EroClip.events.yml` | CH EroClip |
-| `CH Eroclip/CH EroClip (LG Script).events.yml` | CH EroClip (alternate script) |
-| `CH Erocomp/EroCompV4_compressed.events.yml` | EroComp V4 |
-| `CH Fail/Cock Hero Fail.events.yml` | Cock Hero Fail |
-| `CH French Touch/Cock Hero - French Touch with Edging.events.yml` | Cock Hero - French Touch |
-| `CH REVOLUTION CHAMPIONSHIP EDITION/CH - REVOLUTION CHAMPIONSHIP EDITION_EXP.events.yml` | CH Revolution Championship Edition |
-| `Earn_your_Release-1080p/Earn Your Release - Definitive Edition (...) 1440p50.events.yml` | Earn Your Release - Definitive Edition |
-| `Shibby/The-Box/Shibby - The Box (a_human_bot).events.yml` | Shibby - The Box |
+| Title | Funscript | Events File |
+| --- | --- | --- |
+| Cock Hero - Audition 3 | `CH Audition 3/Cock Hero - Audition 3.funscript` | `CH Audition 3/Cock Hero - Audition 3.events.yml` |
+| Cock Hero - Blue Angel | `CH Blue Angel/ReStim Generated/CH-Blue Angel.funscript` | `CH Blue Angel/ReStim Generated/CH-Blue Angel.events.yml` |
+| Champion of Cocknia | `CH Champion of Cocknia/Champion of Cocknia hell.funscript` | `CH Champion of Cocknia/Champion of Cocknia hell.events.yml` |
+| Cock Hero Crescendo (MattMan edit) | `CH Crescendo/MattMan FOC/Cock Hero Crescendo (MattMan).funscript` | `CH Crescendo/MattMan FOC/Cock Hero Crescendo (MattMan).events.yml` |
+| CH EroClip | `CH Eroclip/CH EroClip.funscript` | `CH Eroclip/CH EroClip.events.yml` |
+| CH EroClip (alternate script) | `CH Eroclip/CH EroClip (LG Script).funscript` | `CH Eroclip/CH EroClip (LG Script).events.yml` |
+| EroComp V4 | `CH Erocomp/EroCompV4_compressed.funscript` | `CH Erocomp/EroCompV4_compressed.events.yml` |
+| Cock Hero Fail | `CH Fail/Cock Hero Fail.funscript` | `CH Fail/Cock Hero Fail.events.yml` |
+| Earn Your Release - Definitive Edition | `Earn_your_Release-1080p/Earn Your Release (...).funscript` | `Earn_your_Release-1080p/Earn Your Release (...).events.yml` |
+| Shibby - The Box | `Shibby/The-Box/Shibby - The Box (a_human_bot).funscript` | `Shibby/The-Box/Shibby - The Box (a_human_bot).events.yml` |
 
 ## .events.yml Format
 
@@ -42,7 +40,7 @@ events:
     ramp_up_ms: 2500
 ```
 
-### Available Event Types
+### Built-in Event Types
 
 | Event | Description |
 | --- | --- |
@@ -83,5 +81,7 @@ Parameters vary by event type but the most common ones are:
 
 ## Notes
 
-- All files were hand-crafted by Senorgif.
+- some of these are experimental, not tested or WIP so use at your own risk.
+- These all use the built in event types.
 - Some folders contain alternate scripts for the same funscript (e.g. EroClip has two versions).
+- I have inlcuded the base funscripts I used while creating the events, but theoretically these will work with any funscript that works with the source video. 
