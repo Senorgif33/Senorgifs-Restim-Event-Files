@@ -1,0 +1,14 @@
+# Custom Events File
+# Add timed events to modify the generated funscript files.
+# All time values are in MILLISECONDS.
+# Event names must match definitions in config.event_definitions.yml
+#
+# Example event structure:
+# events:
+#   - time: 60000        # Event at 1 minute (60,000 ms)
+#     name: edge         # Event name from event_definitions.yml
+#     params:            # Optional parameter overrides
+#       duration_ms: 15000
+
+events:
+  # Add your custom events here

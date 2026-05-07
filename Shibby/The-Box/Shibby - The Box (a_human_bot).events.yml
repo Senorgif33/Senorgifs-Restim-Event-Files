@@ -1,0 +1,65 @@
+events:
+- time: 132561
+  name: mcb_throb
+  params:
+    duration_ms: 4439
+    throb_freq: 3
+    throb_amplitude: 0.4
+    pulse_rate: 55
+    ramp_ms: 500
+- time: 152500
+  name: mcb_throb
+  params:
+    duration_ms: 6396
+    throb_freq: 3
+    throb_amplitude: 0.4
+    pulse_rate: 55
+    ramp_ms: 500
+- time: 243083
+  name: mcb_throb
+  params:
+    duration_ms: 2917
+    throb_freq: 3
+    throb_amplitude: 0.4
+    pulse_rate: 55
+    ramp_ms: 500
+- time: 486000
+  name: mcb_throb
+  params:
+    duration_ms: 3677
+    throb_freq: 3
+    throb_amplitude: 0.4
+    pulse_rate: 55
+    ramp_ms: 500
+- time: 535500
+  name: mcb_throb
+  params:
+    duration_ms: 12806
+    throb_freq: 3
+    throb_amplitude: 0.4
+    pulse_rate: 55
+    ramp_ms: 500
+- time: 735333
+  name: mcb_throb
+  params:
+    duration_ms: 4667
+    throb_freq: 3
+    throb_amplitude: 0.4
+    pulse_rate: 55
+    ramp_ms: 500
+- time: 797404
+  name: edge
+  params:
+    duration_ms: 45096
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 842500
+  name: cum
+  params:
+    duration_ms: 44500
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250

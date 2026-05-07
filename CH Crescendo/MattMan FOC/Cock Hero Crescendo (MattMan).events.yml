@@ -1,0 +1,25 @@
+events:
+- time: 2393893
+  name: mcb_throb
+  params:
+    duration_ms: 6120
+    throb_freq: 3
+    throb_amplitude: 0.4
+    pulse_rate: 55
+    ramp_ms: 500
+- time: 3049356
+  name: edge
+  params:
+    duration_ms: 20026
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 3069382
+  name: cum
+  params:
+    duration_ms: 64893
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250

@@ -1,0 +1,113 @@
+events:
+- time: 1458464
+  name: edge
+  params:
+    duration_ms: 44952
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 1573388
+  name: edge
+  params:
+    duration_ms: 44895
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 1693628
+  name: edge
+  params:
+    duration_ms: 54908
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 1777239
+  name: edge
+  params:
+    duration_ms: 46937
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 1824176
+  name: stay
+  params:
+    duration_ms: 9695
+    buzz_freq: 15
+    buzz_intensity: 0.05
+    volume_boost: 0.1
+    ramp_up_ms: 250
+- time: 1958807
+  name: edge
+  params:
+    duration_ms: 45010
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 2003817
+  name: stay
+  params:
+    duration_ms: 30064
+    buzz_freq: 15
+    buzz_intensity: 0.05
+    volume_boost: 0.1
+    ramp_up_ms: 250
+- time: 2094085
+  name: edge
+  params:
+    duration_ms: 14606
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 2124351
+  name: edge
+  params:
+    duration_ms: 14591
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 2154582
+  name: edge
+  params:
+    duration_ms: 11000
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 2177033
+  name: edge
+  params:
+    duration_ms: 13813
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 2190846
+  name: stay
+  params:
+    duration_ms: 14093
+    buzz_freq: 15
+    buzz_intensity: 0.05
+    volume_boost: 0.1
+    ramp_up_ms: 250
+- time: 2921770
+  name: edge
+  params:
+    duration_ms: 14950
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 2981696
+  name: cum
+  params:
+    duration_ms: 75063
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250

@@ -1,0 +1,81 @@
+events:
+- time: 3208035
+  name: edge
+  params:
+    duration_ms: 11422
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 3576951
+  name: edge
+  params:
+    duration_ms: 39337
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 3910067
+  name: edge
+  params:
+    duration_ms: 13583
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 3986898
+  name: edge
+  params:
+    duration_ms: 59526
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 4130034
+  name: cum
+  params:
+    duration_ms: 12249
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 4175439
+  name: cum
+  params:
+    duration_ms: 12577
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 4190355
+  name: cum
+  params:
+    duration_ms: 12794
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 4205458
+  name: cum
+  params:
+    duration_ms: 12621
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 4234041
+  name: cum
+  params:
+    duration_ms: 31093
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 4294208
+  name: cum
+  params:
+    duration_ms: 9513
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250

@@ -1,0 +1,422 @@
+events:
+- time: 713514
+  name: fast
+  params:
+    duration_ms: 15000
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 746986
+  name: fast
+  params:
+    duration_ms: 16909
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 1031131
+  name: fast
+  params:
+    duration_ms: 14474
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 1066571
+  name: fast
+  params:
+    duration_ms: 31331
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 1302405
+  name: fast
+  params:
+    duration_ms: 28576
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 1487249
+  name: fast
+  params:
+    duration_ms: 30351
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 1773023
+  name: fast
+  params:
+    duration_ms: 31910
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 1821588
+  name: fast
+  params:
+    duration_ms: 15439
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 1853130
+  name: fast
+  params:
+    duration_ms: 15687
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 2090614
+  name: fast
+  params:
+    duration_ms: 38838
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 2259150
+  name: edge
+  params:
+    duration_ms: 15212
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 2304135
+  name: edge
+  params:
+    duration_ms: 14907
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 2454972
+  name: fast
+  params:
+    duration_ms: 12842
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 2537277
+  name: edge
+  params:
+    duration_ms: 11877
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 2561080
+  name: edge
+  params:
+    duration_ms: 7541
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 2568621
+  name: stay
+  params:
+    duration_ms: 15617
+    buzz_freq: 15
+    buzz_intensity: 0.05
+    volume_boost: 0.1
+    ramp_up_ms: 250
+- time: 2584238
+  name: cum
+  params:
+    duration_ms: 15184
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 3030712
+  name: fast
+  params:
+    duration_ms: 15000
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 3498612
+  name: fast
+  params:
+    duration_ms: 9121
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 3510318
+  name: fast
+  params:
+    duration_ms: 11357
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 3524924
+  name: fast
+  params:
+    duration_ms: 22324
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 3563358
+  name: fast
+  params:
+    duration_ms: 18798
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 3586355
+  name: fast
+  params:
+    duration_ms: 22958
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 4112443
+  name: fast
+  params:
+    duration_ms: 18516
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 4163084
+  name: fast
+  params:
+    duration_ms: 40456
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 4223544
+  name: fast
+  params:
+    duration_ms: 19689
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 4264092
+  name: fast
+  params:
+    duration_ms: 28908
+    stroke_freq: 2
+    stroke_intensity: 0.5
+    stroke_offset: 0
+    volume_boost: 0.03
+    ramp_up_ms: 2500
+- time: 4510517
+  name: edge
+  params:
+    duration_ms: 8945
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 4592722
+  name: edge
+  params:
+    duration_ms: 16833
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 4786005
+  name: edge
+  params:
+    duration_ms: 6745
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 4985610
+  name: edge
+  params:
+    duration_ms: 11787
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 5049839
+  name: edge
+  params:
+    duration_ms: 25628
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 5146802
+  name: cum
+  params:
+    duration_ms: 9119
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 5189430
+  name: cum
+  params:
+    duration_ms: 16696
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 5223956
+  name: cum
+  params:
+    duration_ms: 16855
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 5275120
+  name: cum
+  params:
+    duration_ms: 12689
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 5292243
+  name: cum
+  params:
+    duration_ms: 16941
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 5814224
+  name: edge
+  params:
+    duration_ms: 6463
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 5820687
+  name: stay
+  params:
+    duration_ms: 2828
+    buzz_freq: 15
+    buzz_intensity: 0.05
+    volume_boost: 0.1
+    ramp_up_ms: 250
+- time: 5823515
+  name: cum
+  params:
+    duration_ms: 16254
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 5884438
+  name: cum
+  params:
+    duration_ms: 16482
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 5931523
+  name: edge
+  params:
+    duration_ms: 6430
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 5937953
+  name: stay
+  params:
+    duration_ms: 2934
+    buzz_freq: 15
+    buzz_intensity: 0.05
+    volume_boost: 0.1
+    ramp_up_ms: 250
+- time: 5940887
+  name: cum
+  params:
+    duration_ms: 16351
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 5990105
+  name: edge
+  params:
+    duration_ms: 4939
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 5995044
+  name: stay
+  params:
+    duration_ms: 2171
+    buzz_freq: 15
+    buzz_intensity: 0.05
+    volume_boost: 0.1
+    ramp_up_ms: 250
+- time: 5997215
+  name: cum
+  params:
+    duration_ms: 13906
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 6034667
+  name: cum
+  params:
+    duration_ms: 16262
+    buzz_freq: 1.5
+    buzz_intensity: 0.1
+    volume_boost: 0.2
+    ramp_up_ms: 250
+- time: 6053382
+  name: edge
+  params:
+    duration_ms: 12203
+    buzz_freq: 10
+    buzz_intensity: 0.07
+    volume_boost: 0.15
+    ramp_up_ms: 500
+- time: 6072240
+  name: cum
+  params:
+    duration_ms: 16667
+    buzz_freq: 15
+    buzz_intensity: 0.05
+    volume_boost: 0.1
+    ramp_up_ms: 250
